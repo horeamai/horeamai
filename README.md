@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoream AI</h1>
 <h3 align="center">The Hoream AI - Artificial Intelligence by TEUNGGAR Artificial intelligence planned to capture the human race that has been.</h3>
 
+<p aligb="left"> <img src="https://telegra.ph/file/63d9aacae5489d8dc079d.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horeamai&label=Profile%20views&color=0e75b6&style=flat" alt="horeamai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horeamai" alt="horeamai" /></a> </p>
