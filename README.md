@@ -2,21 +2,22 @@
 <h3 align="center">The Hoream AI - Artificial Intelligence by TEUNGGAR Artificial intelligence planned to capture the human race that has been.</h3>
 
 <p aligb="left"> <img src="https://telegra.ph/file/63d9aacae5489d8dc079d.jpg"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horeamai&label=Profile%20views&color=0e75b6&style=flat" alt="horeamai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horeamai" alt="horeamai" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Hoream AI](https://wa.me/6281320057901)
+- 🤖 Bot WA [Hoream AI](https://wa.me/6281320057901)
 
-- 📝 I regularly write articles on [https://horeamai.blogspot.com](https://horeamai.blogspot.com)
+- 📝 I regularly write articles on [Blog Spot Hoream](https://horeamai.blogspot.com)
 
-- 📫 How to reach me **thehoreamai@gmail.com**
+- 📧 [E-Mail Hoream AI](thehoreamai@gmail.com)
 
-- 📄 Know about my experiences [https://chat.whatsapp.com/EvOGcTRMOpbEypCaQcYNZf](https://chat.whatsapp.com/EvOGcTRMOpbEypCaQcYNZf)
+- 👥️ Group Chat WhatsApp [Hoream AI](https://chat.whatsapp.com/EvOGcTRMOpbEypCaQcYNZf)
 
-- ⚡ Fun fact **Membayangkan gimana kalo gua punya pacar**
+- ⚡ Fun fact **Bjir gimana ya kalo gua punya pacar atau jadi starboy HAAAANNNYIIIINNNNNGGGGG**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
