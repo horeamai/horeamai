@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🤖 Bot WA [Hoream AI](https://wa.me/6281320057901)
-
 - 📝 I regularly write articles on [Blog Spot Hoream](https://horeamai.blogspot.com)
 
 - 📧 [E-Mail Hoream AI](thehoreamai@gmail.com)
